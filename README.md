@@ -1,9 +1,10 @@
 # Ethiacl-Hacking-Course
 This Repo is Provide Free Ethical Hacking Course!
+<br>
+<br>
 
 
-+--+--+--+--+--+
-|  |  |  |  |  |
+
 +--+--+--+--+--+
 |  |  |  |  |  |
 +--+--+--+--+--+
@@ -12,6 +13,29 @@ This Repo is Provide Free Ethical Hacking Course!
 |  |  |  |  |  |
 +--+--+--+--+--+
 
+<br>
+<br>
+
+# What is Ethical Hacking?
+
+Ethical hacking involves an authorized attempt to gain unauthorized access to a computer system, application, or data. Carrying out an ethical hack involves duplicating strategies and actions of malicious attackers. This practice helps to identify security vulnerabilities which can then be resolved before a malicious attacker has the opportunity to exploit them.
+
+
+<br>
+<br>
+
++--+--+--+--+--+
+|  |  |  |  |  |
++--+--+--+--+--+
+|  |  |  |  |  |
++--+--+--+--+--+
+|  |  |  |  |  |
++--+--+--+--+--+
+
+<br>
+<br>
+
+# List of Course!
 
 <table>
   <tr>
